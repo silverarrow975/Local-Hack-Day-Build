@@ -1,3 +1,5 @@
+using System;
+
 // Hello World! Program
 namespace HelloWorld
 {
@@ -5,7 +7,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            System.console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
