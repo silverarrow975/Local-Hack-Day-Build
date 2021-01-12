@@ -3,11 +3,11 @@ using System;
 // Hello World! Program
 namespace HelloWorld
 {
-    class Hello
+  class Hello
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+      Console.WriteLine("Hello World!");
     }
+  }
 }
